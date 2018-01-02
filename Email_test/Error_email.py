@@ -8,12 +8,12 @@ from email.mime.text import MIMEText
 def send_mail(sub, content):
   #############
   # 要发给谁，这里发给1个人
-  mailto_list = ["13281101982@163.com"]
+  mailto_list = ["XXXXXXXXXXX@163.com"]
   #####################
   # 设置服务器，用户名、口令以及邮箱的后缀
   mail_host = "smtp.mxhichina.com"
   mail_user = "liuwenbo@rongshhutong.com"
-  mail_pass = "Lwb13999510103"
+  mail_pass = "XXXXXXXXXXXXXXXXXXXXXXX"
   mail_postfix = "25"
   ######################
   ''''' 

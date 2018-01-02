@@ -34,10 +34,10 @@ def sendmail(subject,msg,toaddrs,fromaddr,smtpaddr,password):
        print traceback.format_exc()
 
 if __name__ == '__main__':
-    fromaddr = "13281101982@163.com"
+    fromaddr = "xxxxxxxxxxxxxxxxx@163.com"
     smtpaddr = "smtp.163.com"
     toaddrs = ["liuwenbo@rongshutong.com"]
     subject = "测试邮件"
-    password = "lwb13689963881"
+    password = "xxxxxxxxxxxxxxxxxxxxxxxxx"
     msg = "测试一下"
     sendmail(subject,msg,toaddrs,fromaddr,smtpaddr,password)

@@ -11,8 +11,8 @@ from email.mime.text import MIMEText
 from email.utils import parseaddr, formataddr
 import smtplib
 from datetime import datetime
-from_addr = '13281101982@163.com'
-password = 'lwb13689963881'
+from_addr = 'xxxxxxxxxxxxxxxxxx@163.com'
+password = 'xxxxxxxxxxxxxxxxxxx'
 to_addr = 'liuwenbo@rongshutong.com'
 smtp_server = 'smtp.163.com'
 
